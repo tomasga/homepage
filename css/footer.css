@@ -1,0 +1,12 @@
+.footer {
+    padding-top: 170px;
+    font-size: 25px;
+    height: 900px;
+    text-align: center;
+    color: rgb(200, 200, 200);
+}
+
+.footer__link {
+    color: rgb(218, 0, 91);
+    text-decoration: none;
+}

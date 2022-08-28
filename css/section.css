@@ -1,0 +1,41 @@
+.section {
+    padding-top: 170px;
+    font-size: 25px;
+}
+
+.section__title {
+    line-height: 1.2;
+    font-size:30px;
+}
+
+.section_title--name {
+    font-size: 55px;
+}
+
+.section__title--small {
+    font-size: 15px;
+}
+
+.section__picture {
+    width: 300px;
+    padding: 0px 10px 0px 10px;
+}
+
+.section__picture--floatRight {
+    float: right;
+}
+
+.section__picture--floatLeft {
+    float: left;
+}
+
+.section__pictureDescription {
+    padding: 30px 10px 10px 10px;
+}
+
+.section__link {
+    color: rgb(90, 174, 184);
+    text-decoration: none;
+}
+
+

@@ -1,0 +1,41 @@
+.header {
+    width: 100%;
+    text-align: center;
+    color: rgb(200, 200, 200);
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    border: 2px solid #edf1ea;
+    border-radius: 20px;
+    position: fixed;
+    background-color: rgb(75, 10, 23);
+    max-width: 700px;
+
+}
+
+.header__button {
+    float: right;
+    padding: 10px 40px;
+    cursor: pointer;
+    width: 57px;
+    height: 36px;
+    border: none;
+}
+
+.header__button--pl {
+    background: url(https://i.ibb.co/Nmt7FKR/PL-EN.png) no-repeat;
+}
+
+.header__button--en {
+    background: url(https://i.ibb.co/tpZwjTb/EN-PL.png) no-repeat;
+}
+
+.header__link {
+    color: rgb(173, 227, 236);
+    text-decoration: none;
+}
+
+.header__link:hover {
+    color: rgb(136, 37, 12);
+    border-bottom: 1px solid;
+    outline: none;
+}

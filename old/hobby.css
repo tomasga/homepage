@@ -1,0 +1,40 @@
+.hobby {
+    font-size: 25px;
+}
+
+.hobby__space {
+    height: 150px;
+}
+
+.hobby__skyPicture {
+    width: 300px;
+    padding: 0px 10px 0px 10px;
+    float: left;
+}
+
+.hobby__motocyclePicture {
+    width: 300px;
+    padding: 0px 10px 0px 10px;
+    float: right;
+}
+
+.hobby__bicycle {
+    width: 300px;
+    padding: 0px 10px 0px 10px;
+    float: left;
+}
+
+.hobby__diy {
+    width: 300px;
+    padding: 50px 10px 0px 10px;
+    float: right;
+}
+
+.hobby__pictureDescription {
+    padding: 30px 10px 10px 10px;
+}
+
+.hobby__link {
+    color: rgb(90, 174, 184);
+    text-decoration: none;
+}

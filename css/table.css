@@ -1,0 +1,25 @@
+.table {
+    border-collapse: collapse;
+    margin: auto auto;
+    width: 100%;
+    overflow-x: auto;
+}
+
+.table__cell {
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table__cell--kind {
+    background-color: rgb(73, 7, 20);
+    color: white;
+    font-weight: normal;
+}
+
+.table__header {
+    background-color: rgb(116, 11, 32);
+    color: white;
+    font-weight: normal;
+}
