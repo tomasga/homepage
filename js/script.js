@@ -2,7 +2,7 @@ console.log("Cześć! Cieszę się że tu zajrzałeś/łaś. To moje pierwsze kr
 
 let chLangBtnPl = document.querySelector(".header__button--pl");
 let chLangBtnEn = document.querySelector(".header__button--en");
-let langPlEn = document.querySelectorAll(".langPlEn");
+let langPlEn = document.querySelectorAll(".js-langPlEn");
 let age = document.querySelector(".age");
 
 chLangBtnPl.addEventListener('click', () => {
