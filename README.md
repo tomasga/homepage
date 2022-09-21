@@ -8,3 +8,7 @@ https://tomasga.github.io/homepage/
 -rename classes used in java script with "js-" prefix.
 
 -changed pictures url from outside server to local path.
+
+-fixed bug in age calculation js.
+
+-removed navigation.css. Rules moved to header.css.

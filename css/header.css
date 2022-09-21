@@ -22,11 +22,11 @@
 }
 
 .header__button--pl {
-    background: url(https://i.ibb.co/Nmt7FKR/PL-EN.png) no-repeat;
+    background: url(/images/PL-EN.png) no-repeat;
 }
 
 .header__button--en {
-    background: url(https://i.ibb.co/tpZwjTb/EN-PL.png) no-repeat;
+    background: url(/images/EN-PL.png) no-repeat;
 }
 
 .header__link {
@@ -38,4 +38,30 @@
     color: rgb(136, 37, 12);
     border-bottom: 1px solid;
     outline: none;
+}
+
+.header__navigationItem {
+    list-style-type: none;
+    display: inline;
+    line-height: 2;
+    margin: 25px 10px;
+}
+
+.header__navigationLink {
+    font-size: 25px;
+    background-color: rgb(73, 18, 18);
+    color: rgb(200, 200, 200);
+    border: 2px solid #edf1ea;
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
+    box-shadow: 4px 2px 8px #e8eee9;
+}
+
+.header__navigationLink:hover {
+    background-color: rgb(124, 30, 30);
+}
+
+.hide {
+    display: none;
 }
