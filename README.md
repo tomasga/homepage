@@ -12,3 +12,6 @@ https://tomasga.github.io/homepage/
 -fixed bug in age calculation js.
 
 -removed navigation.css. Rules moved to header.css.
+
+## 23OCT2022
+-og image added
