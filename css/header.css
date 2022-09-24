@@ -22,11 +22,11 @@
 }
 
 .header__button--pl {
-    background: url(/images/PL-EN.png) no-repeat;
+    background: url(../images/PL-EN.png) no-repeat;
 }
 
 .header__button--en {
-    background: url(/images/EN-PL.png) no-repeat;
+    background: url(../images/EN-PL.png) no-repeat;
 }
 
 .header__link {
