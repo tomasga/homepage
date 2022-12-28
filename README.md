@@ -13,5 +13,7 @@ https://tomasga.github.io/homepage/
 
 -removed navigation.css. Rules moved to header.css.
 
-## 23OCT2022
+### 23OCT2022
 -og image added
+### 27DEC2022 
+-functions added in js code
