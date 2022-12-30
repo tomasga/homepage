@@ -24,9 +24,9 @@ const sectionsHideToggle = () => {
 }
 
 const init = () => {
-welcome();
-ageCalculation();
-sectionsHideToggle();
+    welcome();
+    ageCalculation();
+    sectionsHideToggle();
 }
 
 init();

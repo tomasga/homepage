@@ -3,13 +3,23 @@
 ## DEMO
 https://tomasga.github.io/homepage/
 
+![Preview](/images/Animation1.gif)
+
+
+Technologies:
+- HTML
+- CSS
+- JS
+- BEM
+- GIT
+
 ## Changes:
 ### 18OCT2022
--rename classes used in java script with "js-" prefix.
+-java scripts classes renamed with "js-" prefix.
 
--changed pictures url from outside server to local path.
+-pictures urls changed from outside server to local path.
 
--fixed bug in age calculation js.
+-bug fix in age calculation js.
 
 -removed navigation.css. Rules moved to header.css.
 
