@@ -1,5 +1,7 @@
 # Tomasz Gawłowski - homepage
 ![Tomasz Gawłowski](/images/tom.png)
+
+This is my first homepage I ever done. Web page is in polish and english language, with menu positioned always on top of the page. Content is switched using java script. I was trying to use BEM convenction in project. In js code functions are used, to reduce using global variables. I hope you'll enjoy.    
 ## DEMO
 https://tomasga.github.io/homepage/
 
